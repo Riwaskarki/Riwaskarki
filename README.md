@@ -3,7 +3,8 @@
 
 🏓 When I’m not working with data, you can catch me playing table tennis and improving my game.
 
-🔗 Check out my projects below or connect with me on LinkedIn [www.linkedin.com/in/riwas-karki]
+🔗 Check out my projects below, visit my Portfolio website [https://riwaskarki.github.io/RiwasKarki2.github.io/], 
+    or connect with me on LinkedIn! [www.linkedin.com/in/riwas-karki]
 <!---
 Riwaskarki/Riwaskarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
